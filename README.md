@@ -2,7 +2,7 @@
 
 Install Cordova
 
-sudo npm install -g cordova
+$ sudo npm install -g cordova
 
 Install Ionic
 
